@@ -1,9 +1,13 @@
-#     API-N1-Dad-Jokes-
-
-
+#     API-N1-Dad-Jokes
 
 <br>
-<img src="./image.PNG" alt="Imagen Mockup 4" width="4000" height="370">
+<div align="center">
+
+
+<img src="./image.PNG" alt="Imagen Mockup 4" width="700" height="370" alignt-items=center>
+
+
+</div>
 <br>
 
 ## 👋 Introduction
@@ -16,7 +20,7 @@ Welcome to the API-N1-Dad-Jokes repository! This project is a simple web applica
 
 1. **Clone the repository:**
     ```bash
-    git clone https://github.com/your-username/Owner-Avatar-API-N1-Dad-Jokes.git
+    git clone https://github.com/dialomt/API-N1-Dad-Jokes-.git
     ```
 
 2. **Open the `index.html` file in your web browser.**
@@ -36,6 +40,7 @@ Feel free to use this project as a template for creating your own dad joke web a
 | ----------------- | ------------------------------------------------------------------ |
 | Blue Steel | ![#686de0](https://via.placeholder.com/10/686de0?text=+) #686de0 |
 | Lilac | ![#9f68e0](https://via.placeholder.com/10/9f68e0?text=+) #9f68e0 |
+|                   | 
 
 ## 🛠️ Skills
 
