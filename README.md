@@ -1,9 +1,9 @@
 #     API-N1-Dad-Jokes-
 
-![Owner Avatar API-N1-Dad-Jokes in Action](https://github.com/dialomt/API-N1-Dad-Jokes-/blob/main/image.PNG)
+
 
 <br>
-<img src="./image.PNG" alt="Imagen Mockup 4" width="370" height="370">
+<img src="./image.PNG" alt="Imagen Mockup 4" width="4000" height="370">
 <br>
 
 ## 👋 Introduction
